@@ -7,7 +7,7 @@ File->Option->Trust Center
 Step 2: 
 Click "Trust Center Settings" button.
 Step 3:
-Select the option you want.
+Select the option you want. Then click "ok" button.
 
 What options are there? See the following link.
 ------------------------------------------
