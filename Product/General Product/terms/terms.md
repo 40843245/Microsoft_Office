@@ -23,3 +23,6 @@ For example,
 band size of row is 5 means that 5 rows composes a band.
 
 band size of column is 3 means that 3 columns composes a band.
+
+### reference
+[Tableau 輕鬆學 - 美化工作表外觀](https://weirenxue.github.io/2021/08/04/day14_tableau/)
