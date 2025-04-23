@@ -7,6 +7,11 @@ the words, paragraphs, headings, lists, tables, and other elements that form the
 
 information you want to convey.
 
+## about page
+### about margin
+#### gutter margin
+extra space added to the inside margin of facing pages for binding
+
 ## about footnote
 ### footnote separator
 the line that separates the main text from the footnotes.
