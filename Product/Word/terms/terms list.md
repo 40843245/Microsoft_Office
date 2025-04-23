@@ -10,3 +10,9 @@ information you want to convey.
 ## about footnote
 ### footnote separator
 the line that separates the main text from the footnotes.
+
+### footnote continuation separator
+the line that appears when footnotes span across multiple pages.
+
+### footnote continuation notice
+text indicating that footnotes are continued from or to another page
