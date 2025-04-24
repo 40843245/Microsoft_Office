@@ -7,6 +7,19 @@ the words, paragraphs, headings, lists, tables, and other elements that form the
 
 information you want to convey.
 
+## about tag
+### structured document tag
+#### characteristics
+
+Here are some common uses and characteristics of `<w:sdt>`:
+
+-   **Form Fields:** They can represent form fields like text boxes, dropdown lists, checkboxes, and date pickers, making it easier to create fillable forms.
+-   **Repeating Content:** They can define sections of a document that can be repeated multiple times.
+-   **Placeholder Text:** They can contain placeholder text that guides users on what information to enter.
+-   **Data Binding:** They can be linked to external data sources, allowing for dynamic content updates.
+-   **Custom Controls:** Developers can create custom controls that are embedded within these tags.
+-   **Content Protection:** They can be used to protect specific parts of a document from being edited.
+
 ## about page
 ### about margin
 #### gutter margin
