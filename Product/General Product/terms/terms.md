@@ -1,5 +1,5 @@
 # terms
-## Part 1 -- about table
+## about table
 ### band
 Simply said, you can think a band in a table is a group consist of a rectangle of cells in table. 
 
@@ -26,3 +26,13 @@ band size of column is 3 means that 3 columns composes a band.
 
 ### reference
 [Tableau 輕鬆學 - 美化工作表外觀](https://weirenxue.github.io/2021/08/04/day14_tableau/)
+
+## about table
+### pivot table
+In Office Excel, it's a really handy tool, especially when you're trying to make sense of a lot of data.
+
+#### reference
+[Overview of PivotTables and PivotCharts](https://support.microsoft.com/en-us/office/overview-of-pivottables-and-pivotcharts-527c8fa3-02c0-445a-a2db-7794676bce96)
+
+### slicers
+they are visual controls that allow users to filter data in PivotTables and linked data sources.
