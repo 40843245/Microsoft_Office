@@ -24,10 +24,9 @@ band size of row is 5 means that 5 rows composes a band.
 
 band size of column is 3 means that 3 columns composes a band.
 
-### reference
+#### reference
 [Tableau 輕鬆學 - 美化工作表外觀](https://weirenxue.github.io/2021/08/04/day14_tableau/)
 
-## about table
 ### pivot table
 In Office Excel, it's a really handy tool, especially when you're trying to make sense of a lot of data.
 
@@ -36,3 +35,17 @@ In Office Excel, it's a really handy tool, especially when you're trying to make
 
 ### slicers
 they are visual controls that allow users to filter data in PivotTables and linked data sources.
+
+> [!TIP]
+> Think of it:
+>
+> a handy tool that uses super-efficient way to summarize, analyze, and explore your information.
+
+## about styles
+### timeline styles
+It generally refers to the various visual and structural approaches used to represent events or data chronologically.
+
+> [!TIP]
+> Think of it:
+>
+> the different ways you can design and organize a timeline to make it informative and visually appealing.
